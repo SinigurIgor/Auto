@@ -1,0 +1,156 @@
+D:\С# .NET\LAB\AutoHub\bin\AutoHub.dll.config
+D:\С# .NET\LAB\AutoHub\bin\AutoHub.dll
+D:\С# .NET\LAB\AutoHub\bin\AutoHub.pdb
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csc.exe
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csc.exe.config
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csc.rsp
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csi.exe
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csi.exe.config
+D:\С# .NET\LAB\AutoHub\bin\roslyn\csi.rsp
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.Managed.Core.targets
+D:\С# .NET\LAB\AutoHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.AppContext.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Collections.Immutable.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Console.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.IO.Compression.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.IO.FileSystem.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.IO.Pipes.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Reflection.Metadata.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.AccessControl.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Claims.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Security.Principal.Windows.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.ValueTuple.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Xml.XmlDocument.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Xml.XPath.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\С# .NET\LAB\AutoHub\bin\roslyn\vbc.exe
+D:\С# .NET\LAB\AutoHub\bin\roslyn\vbc.exe.config
+D:\С# .NET\LAB\AutoHub\bin\roslyn\vbc.rsp
+D:\С# .NET\LAB\AutoHub\bin\roslyn\VBCSCompiler.exe
+D:\С# .NET\LAB\AutoHub\bin\roslyn\VBCSCompiler.exe.config
+D:\С# .NET\LAB\AutoHub\bin\Antlr3.Runtime.dll
+D:\С# .NET\LAB\AutoHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\С# .NET\LAB\AutoHub\bin\Microsoft.Web.Infrastructure.dll
+D:\С# .NET\LAB\AutoHub\bin\Newtonsoft.Json.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Helpers.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Mvc.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Optimization.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Razor.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.Deployment.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.Razor.dll
+D:\С# .NET\LAB\AutoHub\bin\WebGrease.dll
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Helpers.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Mvc.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Optimization.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.Razor.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.Deployment.xml
+D:\С# .NET\LAB\AutoHub\bin\System.Web.WebPages.Razor.xml
+D:\С# .NET\LAB\AutoHub\bin\Newtonsoft.Json.xml
+D:\С# .NET\LAB\AutoHub\bin\Antlr3.Runtime.pdb
+D:\С# .NET\LAB\AutoHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\С# .NET\LAB\AutoHub\obj\Debug\AutoHub.csproj.AssemblyReference.cache
+D:\С# .NET\LAB\AutoHub\obj\Debug\AutoHub.csproj.CoreCompileInputs.cache
+D:\С# .NET\LAB\AutoHub\obj\Debug\AutoHub.csproj.Up2Date
+D:\С# .NET\LAB\AutoHub\obj\Debug\AutoHub.dll
+D:\С# .NET\LAB\AutoHub\obj\Debug\AutoHub.pdb
+D:\С# .NET\LAB\AutoHub\bin\BusinessLogic.dll
+D:\С# .NET\LAB\AutoHub\bin\BusinessLogic.pdb
+E:\Desktop\LAB\AutoHub\bin\AutoHub.dll.config
+E:\Desktop\LAB\AutoHub\bin\AutoHub.dll
+E:\Desktop\LAB\AutoHub\bin\AutoHub.pdb
+E:\Desktop\LAB\AutoHub\bin\roslyn\csc.exe
+E:\Desktop\LAB\AutoHub\bin\roslyn\csc.exe.config
+E:\Desktop\LAB\AutoHub\bin\roslyn\csc.rsp
+E:\Desktop\LAB\AutoHub\bin\roslyn\csi.exe
+E:\Desktop\LAB\AutoHub\bin\roslyn\csi.exe.config
+E:\Desktop\LAB\AutoHub\bin\roslyn\csi.rsp
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Desktop\LAB\AutoHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.AppContext.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Collections.Immutable.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Console.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.IO.Compression.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.IO.FileSystem.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.IO.Pipes.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Reflection.Metadata.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.AccessControl.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Claims.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.ValueTuple.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Xml.XPath.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Desktop\LAB\AutoHub\bin\roslyn\vbc.exe
+E:\Desktop\LAB\AutoHub\bin\roslyn\vbc.exe.config
+E:\Desktop\LAB\AutoHub\bin\roslyn\vbc.rsp
+E:\Desktop\LAB\AutoHub\bin\roslyn\VBCSCompiler.exe
+E:\Desktop\LAB\AutoHub\bin\roslyn\VBCSCompiler.exe.config
+E:\Desktop\LAB\AutoHub\bin\Antlr3.Runtime.dll
+E:\Desktop\LAB\AutoHub\bin\BusinessLogic.dll
+E:\Desktop\LAB\AutoHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Desktop\LAB\AutoHub\bin\Microsoft.Web.Infrastructure.dll
+E:\Desktop\LAB\AutoHub\bin\Newtonsoft.Json.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.Helpers.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.Mvc.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.Optimization.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.Razor.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.Deployment.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.dll
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.Razor.dll
+E:\Desktop\LAB\AutoHub\bin\WebGrease.dll
+E:\Desktop\LAB\AutoHub\bin\BusinessLogic.pdb
+E:\Desktop\LAB\AutoHub\bin\System.Web.Helpers.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.Mvc.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.Optimization.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.Razor.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.Deployment.xml
+E:\Desktop\LAB\AutoHub\bin\System.Web.WebPages.Razor.xml
+E:\Desktop\LAB\AutoHub\bin\Newtonsoft.Json.xml
+E:\Desktop\LAB\AutoHub\bin\Antlr3.Runtime.pdb
+E:\Desktop\LAB\AutoHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Desktop\LAB\AutoHub\obj\Debug\AutoHub.csproj.AssemblyReference.cache
+E:\Desktop\LAB\AutoHub\obj\Debug\AutoHub.csproj.CoreCompileInputs.cache
+E:\Desktop\LAB\AutoHub\obj\Debug\AutoHub.csproj.Up2Date
+E:\Desktop\LAB\AutoHub\obj\Debug\AutoHub.dll
+E:\Desktop\LAB\AutoHub\obj\Debug\AutoHub.pdb

@@ -1,0 +1,17 @@
+﻿
+    <h2>@ViewBag.Title</h2>
+    @if(ViewBag.Name != null)
+    {
+        <h2>Welcome @(ViewBag.Name) to page Corea Cars</h2>
+    }
+    else
+    {
+        <h2>Enter your name</h2>
+        <form method="post" action="@Url.Action("Corea", "Home")">
+            <input type="text" name="name" />
+            <input type="submit" value="Submit" />
+        </form>
+    }
+
+    
+

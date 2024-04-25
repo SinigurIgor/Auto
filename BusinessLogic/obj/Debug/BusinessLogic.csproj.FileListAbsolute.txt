@@ -1,0 +1,12 @@
+D:\С# .NET\LAB\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\С# .NET\LAB\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\С# .NET\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\С# .NET\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\С# .NET\LAB\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\С# .NET\LAB\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Desktop\LAB\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Desktop\LAB\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.pdb

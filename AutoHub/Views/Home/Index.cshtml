@@ -1,0 +1,49 @@
+﻿
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Автомобили</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-light bg-light">
+        <form class="form-inline">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </nav>
+
+    <header class="header align-text-">
+        <h1>
+            <strong>Подбор, покупка и доставка авто из Кореи, США и Китая</strong>
+        </h1>
+        <p>США - КИТАЙ - КОРЕЯ</p>
+        <!--<button type="button" class="btn btn-primary btn-lg">Выбрать авто</button>-->
+    </header>
+
+    <nav class="navbar-collapse">
+        <ul class="nav navbar-nav" style="font-size: 25px; font-family: 'Poppins', sans-serif; line-height: 2;">
+            <li>@Html.ActionLink("Главная страница", "Index", "Home")</li>
+            <li>@Html.ActionLink("Каталог", "Catalog", "Home")</li>
+            <li>@Html.ActionLink("Авторизация", "Privacy", "Home")</li>
+             <li>@Html.ActionLink("Авто в наличии", "Exists", "Home")</li> 
+             <li>@Html.ActionLink("Авто из США", "USA", "Home")</li> 
+            <li>@Html.ActionLink("Авто из Кореи", "Corea", "Home")</li>
+            <li>@Html.ActionLink("Авто из Китая", "China", "Home")</li>
+            <li>@Html.ActionLink("О нас", "Contacts", "Home")</li>
+
+        </ul>
+    </nav>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+
+</html>

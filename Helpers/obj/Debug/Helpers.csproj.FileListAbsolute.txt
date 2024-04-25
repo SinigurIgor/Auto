@@ -1,0 +1,12 @@
+D:\С# .NET\LAB\Helpers\bin\Debug\Helpers.dll
+D:\С# .NET\LAB\Helpers\bin\Debug\Helpers.pdb
+D:\С# .NET\LAB\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+D:\С# .NET\LAB\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+D:\С# .NET\LAB\Helpers\obj\Debug\Helpers.dll
+D:\С# .NET\LAB\Helpers\obj\Debug\Helpers.pdb
+E:\Desktop\LAB\Helpers\bin\Debug\AutoHub.dll
+E:\Desktop\LAB\Helpers\bin\Debug\AutoHub.pdb
+E:\Desktop\LAB\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+E:\Desktop\LAB\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+E:\Desktop\LAB\Helpers\obj\Debug\AutoHub.dll
+E:\Desktop\LAB\Helpers\obj\Debug\AutoHub.pdb

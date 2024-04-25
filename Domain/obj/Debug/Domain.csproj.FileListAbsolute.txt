@@ -1,0 +1,6 @@
+D:\С# .NET\LAB\Domain\bin\Debug\Domain.dll
+D:\С# .NET\LAB\Domain\bin\Debug\Domain.pdb
+D:\С# .NET\LAB\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\С# .NET\LAB\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\С# .NET\LAB\Domain\obj\Debug\Domain.dll
+D:\С# .NET\LAB\Domain\obj\Debug\Domain.pdb
