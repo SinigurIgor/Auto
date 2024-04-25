@@ -1,38 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\",
+  "WorkspaceRootPath": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\businesslogic\\basebl\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\basebl\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|e:\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\domain\\entities\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\businesslogic\\mainapi\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\mainapi\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|e:\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\domain\\entities\\responces\\baseresponces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\responces\\baseresponces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\businesslogic\\businesslogic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C371571-FBF3-452E-B50D-7A8F576EE947}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\domain\\entities\\user\\userlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D7E195C-74C8-4B02-AF87-CBDCBE57F555}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\userlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserAPI.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\MainAPI\\UserAPI.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\MainAPI\\UserAPI.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\MainAPI\\UserAPI.cs*",
-              "RelativeToolTip": "BusinessLogic\\MainAPI\\UserAPI.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:39:08.847Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseResponces.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\Source\\Repos\\SinigurIgor\\Auto\\Domain\\Entities\\Responces\\BaseResponces.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Responces\\BaseResponces.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\Source\\Repos\\SinigurIgor\\Auto\\Domain\\Entities\\Responces\\BaseResponces.cs*",
-              "RelativeToolTip": "Domain\\Entities\\Responces\\BaseResponces.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:15:40.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserLoginData.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\Source\\Repos\\SinigurIgor\\Auto\\Domain\\Entities\\User\\UserLoginData.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserLoginData.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\Source\\Repos\\SinigurIgor\\Auto\\Domain\\Entities\\User\\UserLoginData.cs*",
-              "RelativeToolTip": "Domain\\Entities\\User\\UserLoginData.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:57:19.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusinessLogic1.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\BusinessLogic1.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic1.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\BusinessLogic1.cs",
-              "RelativeToolTip": "BusinessLogic\\BusinessLogic1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:49:34.215Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\BaseBL\\SessionBL.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\BaseBL\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\BaseBL\\SessionBL.cs*",
-              "RelativeToolTip": "BusinessLogic\\BaseBL\\SessionBL.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAABAAAA",
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Domain\\Entities\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserDTO.cs",
+              "ToolTip": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Domain\\Entities\\User\\UserDTO.cs*",
+              "RelativeToolTip": "Domain\\Entities\\User\\UserDTO.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:48:27.523Z",
+              "WhenOpened": "2024-04-25T18:30:11.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ISession.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\Interfaces\\ISession.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ISession.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\BusinessLogic\\Interfaces\\ISession.cs*",
-              "RelativeToolTip": "BusinessLogic\\Interfaces\\ISession.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAiAAAA",
+              "DocumentIndex": 1,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BusinessLogic\\DBModel\\UserContext.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BusinessLogic\\DBModel\\UserContext.cs*",
+              "RelativeToolTip": "BusinessLogic\\DBModel\\UserContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:46:42.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T14:41:10.131Z",
+              "WhenOpened": "2024-04-25T18:28:59.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "AutoHub\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Controllers\\LoginController.cs*",
-              "RelativeToolTip": "AutoHub\\Controllers\\LoginController.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAADwvy8AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T14:41:04.926Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Web.config",
+              "RelativeDocumentMoniker": "AutoHub\\Web.config",
+              "ToolTip": "E:\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Web.config*",
+              "RelativeToolTip": "AutoHub\\Web.config*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-25T18:21:27.971Z",
               "EditorCaption": ""
             }
           ]

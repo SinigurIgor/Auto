@@ -13,3 +13,12 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.csproj
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.csproj.Up2Date
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.pdb
+E:\Desktop\Новая папка\Domain\bin\Debug\Domain.dll
+E:\Desktop\Новая папка\Domain\bin\Debug\Domain.pdb
+E:\Desktop\Новая папка\Domain\bin\Debug\AutoHub.dll
+E:\Desktop\Новая папка\Domain\bin\Debug\AutoHub.pdb
+E:\Desktop\Новая папка\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+E:\Desktop\Новая папка\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\Desktop\Новая папка\Domain\obj\Debug\Domain.csproj.Up2Date
+E:\Desktop\Новая папка\Domain\obj\Debug\Domain.dll
+E:\Desktop\Новая папка\Domain\obj\Debug\Domain.pdb

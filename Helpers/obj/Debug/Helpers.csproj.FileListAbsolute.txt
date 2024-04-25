@@ -16,3 +16,9 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Helpers\obj\Debug\Helpers.cspr
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Helpers\obj\Debug\AutoHub.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Helpers\obj\Debug\AutoHub.pdb
+E:\Desktop\Новая папка\Helpers\bin\Debug\AutoHub.dll
+E:\Desktop\Новая папка\Helpers\bin\Debug\AutoHub.pdb
+E:\Desktop\Новая папка\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+E:\Desktop\Новая папка\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+E:\Desktop\Новая папка\Helpers\obj\Debug\AutoHub.dll
+E:\Desktop\Новая папка\Helpers\obj\Debug\AutoHub.pdb

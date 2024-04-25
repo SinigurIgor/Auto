@@ -21,3 +21,19 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\Domain
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\Domain.pdb
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\AutoHub.pdb
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\AutoHub.dll
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\Domain.dll
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\Domain.pdb
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\AutoHub.pdb
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Desktop\Новая папка\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Desktop\Новая папка\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
+E:\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.pdb
