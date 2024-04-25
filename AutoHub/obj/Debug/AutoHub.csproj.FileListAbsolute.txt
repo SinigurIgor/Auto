@@ -232,3 +232,9 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\obj\Debug\AutoHub.cspr
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\obj\Debug\AutoHub.csproj.Up2Date
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\obj\Debug\AutoHub.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\obj\Debug\AutoHub.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Buffers.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Memory.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Threading.Tasks.Extensions.dll

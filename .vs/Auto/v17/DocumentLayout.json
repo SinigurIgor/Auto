@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:58:24.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "AutoHub\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "AutoHub\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:57:39.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
