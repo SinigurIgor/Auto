@@ -1,88 +1,37 @@
-﻿@{
-    ViewBag.Title = "Contacts";
-}
-
-<!DOCTYPE HTML>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>О компании</title>
-    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap" rel="stylesheet">
-    <style>
-        body {
-            
-            background-color: #f8f9fa;
-            color: #212529;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-           
-            background-size: 100% auto;
-            background-position: top;
-            text-align: center;
-            padding: 100px;
-        }
-
-        h1 {
-            font-size: 36px;
-            font-weight: 700;
-            margin-bottom: 20px;
-            color:black
-        }
-
-        h2 {
-            font-size: 24px;
-            font-weight: 400;
-            margin-bottom: 20px;
-            color: black
-        }
-
-        h3 {
-            font-size: 20px;
-            font-weight: 400;
-            margin-bottom: 20px;
-            color: black
-        }
-
-        h4 {
-            font-size: 18px;
-            font-weight: 400;
-            margin-bottom: 20px;
-            color: black
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-            color: black
-        }
-
-            ul li {
-                margin-bottom: 10px;
-                color: black
-            }
-
-        img {
-            margin: 20px 0;
-            
-        }
-    </style>
+    <title>AutoHub | О нас</title>
+    <link href="~/Content/Style.css" rel="stylesheet">
 </head>
-<body background =" none">
+<body class="ContactsBody">
+    <div id="headerCont">
 
-    <header class="header" >
-        <h1>О компании</h1>
-        <h2>
-            Покупаем и привозим авто из США, Кореи, Китая и других стран мира.
-            Доставим авто в любую точку мира! Наш опыт 10 лет работы, более 20 000 купленных и доставленных авто.
-        </h2>
-
-        <h1>Наши услуги:</h1>
-        <h3>
+        <header>
+            <nav>
+                <ul>
+                    <li>@Html.ActionLink("AutoHub", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Авто из США", "USA", "Home")</li>
+                    <li>@Html.ActionLink("Авто из Кореи", "Corea", "Home")</li>
+                    <li>@Html.ActionLink("Авто из Китая", "China", "Home")</li>
+                    <li class="now">@Html.ActionLink("О нас", "Contacts", "Home")</li>
+                    <li>@Html.ActionLink("Авторизация", "Privacy", "Home")</li>
+                </ul>
+            </nav>
+        </header>
+        <div class="AboutDiv">
+            <p class="main">
+                О компании AutoHub:
+            </p>
+            <p>
+                Покупаем и привозим авто из США, Кореи, Китая и других стран мира.
+                Доставим авто в любую точку мира! Наш опыт 10 лет работы, более 20 000 купленных и доставленных авто.
+            </p>
+            <p class="main">
+                Наши услуги:
+            </p>
             <ul>
                 <li>Подбор и покупка авто в США, Кореи на аукционах или покупка нового электромобиля в Китае</li>
                 <li>Наземная перевозка с аукциона в порт погрузки</li>
@@ -90,20 +39,30 @@
                 <li>Доставка авто</li>
                 <li>Растаможка и оформление</li>
             </ul>
-        </h3>
+        </div>
+        <div class="AboutDiv">
+            <p class="main">
+                Мы официальные партнеры американских и корейских аукционов автомобилей:
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hyundai_Glovis_logo.svg/1280px-Hyundai_Glovis_logo.svg.png" alt="">
+            <img src="https://optim.tildacdn.one/tild6664-3330-4234-b764-386264343433/-/resize/300x/-/format/webp/logo.png" alt="">
+            <img src="https://optim.tildacdn.one/tild6337-6139-4633-b634-313962376233/-/resize/300x/-/format/webp/e992a7437ca455ca2dfc.png" alt="">
+        </div>
 
-        <h1>Мы официальные партнеры американских и корейских аукционов автомобилей</h1>
-        <img src="https://optim.tildacdn.one/tild3464-6166-4733-b933-616165643564/-/resize/300x/-/format/webp/glovis2-450x225.jpg" width="300" alt="">
-        <img src="https://optim.tildacdn.one/tild6664-3330-4234-b764-386264343433/-/resize/300x/-/format/webp/logo.png" width="300" alt="">
-        <img src="https://optim.tildacdn.one/tild6337-6139-4633-b634-313962376233/-/resize/300x/-/format/webp/e992a7437ca455ca2dfc.png" width="300" alt="">
 
-        <h1>Наши Контакты:</h1>
-        <h4>
-            Bulevardul Iuri Gagarin 7, Chișinău 2000, Молдова<br>
-            Часы работы:<br>
+
+    </div>
+    <div class="AdressCont">
+        <p class="Adress">
+            <br>Часы работы: <br>
             Пн-пт: 9:00-18:00<br>
-            Сб: 10:00-19:00
-        </h4>
-    </header>
- 
+            Сб: 10:00-19:00<br><br>
+        </p>
+        <p class="Adress">
+            Мы находимся по адресу: <br>Bulevardul Iuri Gagarin 7, Chișinău 2000, Молдова<br><br>
+        </p>
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2720.5171250397684!2d28.8574687119634!3d47.010453571020975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97c1a8c091997%3A0x7c196d76fbee0a35!2zQnVsZXZhcmR1bCBJdXJpIEdhZ2FyaW4gNywgQ2hpyJlpbsSDdSwg0JzQvtC70LTQvtCy0LA!5e0!3m2!1sru!2s!4v1713622221485!5m2!1sru!2s" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</body>
 </html>
