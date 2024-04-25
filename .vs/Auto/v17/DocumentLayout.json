@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\views\\home\\china.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\china.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|c:\\users\\max1mumred\\source\\repos\\sinigurigor\\auto\\autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,6 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "China.cshtml",
+              "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Home\\China.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\China.cshtml",
+              "ToolTip": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Home\\China.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Home\\China.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T11:47:46.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AutoHub\\Views\\Shared\\_Layout.cshtml",
@@ -35,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\max1mumRed\\source\\repos\\SinigurIgor\\Auto\\AutoHub\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "AutoHub\\App_Start\\BundleConfig.cs",
