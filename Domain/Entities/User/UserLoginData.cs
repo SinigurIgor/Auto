@@ -2,11 +2,11 @@
 
 namespace Domain.Entities.User
 {
-    public class ULoginData
+    public class UserLoginData
     {
         public string Credential { get; set; }
         public string Password { get; set; }
-        public string LiginIp { get; set; }
-        public DateTime LoginDateTime { get; set; }
+        public string UserIp { get; set; }
+        public DateTime LastLogin { get; set; }
     }
 }

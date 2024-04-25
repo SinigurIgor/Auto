@@ -114,6 +114,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\UserData.cs" />
+    <Compile Include="Models\User\UActionLogin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -136,18 +137,18 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Scripts\bootstrap.bundle.js" />
-    <Content Include="Scripts\bootstrap.bundle.min.js" />
-    <Content Include="Scripts\bootstrap.esm.js" />
-    <Content Include="Scripts\bootstrap.esm.min.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\bootstrap.min.js.map" />
-    <Content Include="Scripts\bootstrap.js.map" />
-    <Content Include="Scripts\bootstrap.esm.min.js.map" />
-    <Content Include="Scripts\bootstrap.esm.js.map" />
-    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
-    <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Scripts1\bootstrap.bundle.js" />
+    <Content Include="Scripts1\bootstrap.bundle.min.js" />
+    <Content Include="Scripts1\bootstrap.esm.js" />
+    <Content Include="Scripts1\bootstrap.esm.min.js" />
+    <Content Include="Scripts1\bootstrap.js" />
+    <Content Include="Scripts1\bootstrap.min.js" />
+    <Content Include="Scripts1\bootstrap.min.js.map" />
+    <Content Include="Scripts1\bootstrap.js.map" />
+    <Content Include="Scripts1\bootstrap.esm.min.js.map" />
+    <Content Include="Scripts1\bootstrap.esm.js.map" />
+    <Content Include="Scripts1\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts1\bootstrap.bundle.js.map" />
     <Content Include="Content\bootstrap.rtl.min.css.map" />
     <Content Include="Content\bootstrap.rtl.css.map" />
     <Content Include="Content\bootstrap.min.css.map" />
@@ -164,18 +165,20 @@
     <Content Include="Content\bootstrap-grid.rtl.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
-    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
-    <None Include="Scripts\jquery-3.7.1.intellisense.js" />
-    <Content Include="Scripts\jquery-3.7.1.js" />
-    <Content Include="Scripts\jquery-3.7.1.min.js" />
-    <Content Include="Scripts\jquery-3.7.1.slim.js" />
-    <Content Include="Scripts\jquery-3.7.1.slim.min.js" />
-    <None Include="Scripts\jquery.validate-vsdoc.js" />
-    <Content Include="Scripts\jquery.validate.js" />
-    <Content Include="Scripts\jquery.validate.min.js" />
-    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
-    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <None Include="Scripts1\jquery-3.3.1.intellisense.js" />
+    <None Include="Scripts1\jquery-3.7.1.intellisense.js" />
+    <Content Include="Scripts1\jquery-3.7.1.js" />
+    <Content Include="Scripts1\jquery-3.7.1.min.js" />
+    <Content Include="Scripts1\jquery-3.7.1.slim.js" />
+    <Content Include="Scripts1\jquery-3.7.1.slim.min.js" />
+    <None Include="Scripts1\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts1\jquery.validate.js" />
+    <Content Include="Scripts1\jquery.validate.min.js" />
+    <Content Include="Scripts1\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts1\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts1\modernizr-2.8.3.js" />
+    <Content Include="Sources\Scripts\script.js" />
+    <Content Include="Sources\Styles\style.css" />
     <Content Include="Views\Home\Catalog.cshtml" />
     <Content Include="Views\Home\China.cshtml" />
     <Content Include="Views\Home\Contacts.cshtml" />
@@ -184,7 +187,6 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Privacy.cshtml" />
     <Content Include="Views\Home\USA.cshtml" />
-    <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Login\Register.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -197,8 +199,9 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Scripts\jquery-3.7.1.slim.min.map" />
-    <Content Include="Scripts\jquery-3.7.1.min.map" />
+    <Content Include="Scripts1\jquery-3.7.1.slim.min.map" />
+    <Content Include="Scripts1\jquery-3.7.1.min.map" />
+    <Content Include="Views\Login\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -211,6 +214,10 @@
     <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
       <Project>{6c371571-fbf3-452e-b50d-7a8f576ee947}</Project>
       <Name>BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{3d7e195c-74c8-4b02-af87-cbdcbe57f555}</Project>
+      <Name>Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

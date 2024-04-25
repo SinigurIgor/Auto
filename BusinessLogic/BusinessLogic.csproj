@@ -38,12 +38,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\BusinessLogic1.cs" />
-    <Compile Include="Core\AdminApi.cs" />
-    <Compile Include="Core\UserApi.cs" />
+    <Compile Include="BusinessLogic1.cs" />
     <Compile Include="Interfaces\ISession.cs" />
+    <Compile Include="MainAPI\UserAPI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SessionBL.cs" />
+    <Compile Include="BaseBL\SessionBL.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{3d7e195c-74c8-4b02-af87-cbdcbe57f555}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Helpers\Helpers.csproj">
+      <Project>{527e6c74-7ca6-493a-a857-4a071454f8da}</Project>
+      <Name>Helpers</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

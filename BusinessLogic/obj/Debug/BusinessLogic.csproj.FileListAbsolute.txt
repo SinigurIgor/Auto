@@ -16,3 +16,8 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\Busine
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\AutoHub.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\Domain.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\Domain.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\AutoHub.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date

@@ -4,3 +4,12 @@ D:\С# .NET\LAB\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
 D:\С# .NET\LAB\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 D:\С# .NET\LAB\Domain\obj\Debug\Domain.dll
 D:\С# .NET\LAB\Domain\obj\Debug\Domain.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\bin\Debug\Domain.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\bin\Debug\Domain.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\bin\Debug\AutoHub.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\bin\Debug\AutoHub.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.csproj.Up2Date
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\Domain\obj\Debug\Domain.pdb

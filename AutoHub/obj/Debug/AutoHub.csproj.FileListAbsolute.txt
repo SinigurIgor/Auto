@@ -238,3 +238,5 @@ C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Memo
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\Domain.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\AutoHub\bin\Domain.pdb
