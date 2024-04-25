@@ -1,7 +1,114 @@
-﻿
-@{
-    ViewBag.Title = "China";
-}
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoHub | China</title>
+    <link href="~/Content/Style.css" rel="stylesheet">
+</head>
+<body class="CountryBody">
 
-<h2>_China</h2>
+    <div id="headerCont">
 
+        <header>
+            <nav>
+                <ul>
+                    <li>@Html.ActionLink("AutoHub", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Авто из США", "USA", "Home")</li>
+                    <li>@Html.ActionLink("Авто из Кореи", "Corea", "Home")</li>
+                    <li class="now">@Html.ActionLink("Авто из Китая", "China", "Home")</li>
+                    <li>@Html.ActionLink("О нас", "Contacts", "Home")</li>
+                    <li>@Html.ActionLink("Авторизация", "Privacy", "Home")</li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="TitlePCont">
+        <p class="TitleP">Авто из Китая в наличии:</p>
+    </div>
+    <div class="ItemCont">
+        <div class="Item">
+            <img src="https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2022/04/Roewe-Whale-China-March-2022.png?resize=600%2C400" alt="">
+            <p class="CarTitle">Roewe Whale</p>
+            <p>Compact crossover SUV</p>
+            <p class="CarCost">23,500$</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+        <div class="Item">
+            <img src="" alt="">
+            <p class="CarTitle">Название машины</p>
+            <p>Описание машины</p>
+            <p class="CarCost">цена</p>
+            <button class="button-86">Заказать</button>
+        </div>
+    </div>
+    <details class="CountrySpoiler">
+        <summary>Посмотреть все авто</summary>
+        <div class="ItemCont">
+            <div class="Item">
+                <img src="" alt="">
+                <p class="CarTitle">Название машины</p>
+                <p>Описание машины</p>
+                <p class="CarCost">цена</p>
+                <button class="button-86">Заказать</button>
+            </div>
+            <div class="Item">
+                <img src="" alt="">
+                <p class="CarTitle">Название машины</p>
+                <p>Описание машины</p>
+                <p class="CarCost">цена</p>
+                <button class="button-86">Заказать</button>
+            </div>
+            <div class="Item">
+                <img src="" alt="">
+                <p class="CarTitle">Название машины</p>
+                <p>Описание машины</p>
+                <p class="CarCost">цена</p>
+                <button class="button-86">Заказать</button>
+            </div>
+        </div>
+    </details>
+</body>
+</html>
