@@ -10,3 +10,9 @@ E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.ca
 E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
 E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.dll
 E:\Desktop\LAB\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\max1mumRed\Source\Repos\SinigurIgor\Auto\BusinessLogic\obj\Debug\BusinessLogic.pdb
