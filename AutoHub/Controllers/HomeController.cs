@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Web.Mvc;
 using AUTO.Models;
@@ -12,13 +11,7 @@ namespace AutoHub.Controllers
         public ActionResult Index()
         {
 
-            UserData u = new UserData
-            {
-                Username = "Customer",
-                Products = new List<string> { "Product #1", "Product #2", "Product #3", "Product #4" }
-            };
-
-            return View(u);
+            return View();
         }
 
         public ActionResult Privacy()

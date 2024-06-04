@@ -1,13 +1,43 @@
-/*
+$('#form').find('input, textarea').on('keyup blur focus', function (e) {
 
-inspiration: 
-https://dribbble.com/shots/2292415-Daily-UI-001-Day-001-Sign-Up
+    var $this = $(this),
+        label = $this.prev('label');
 
-*/
+    if (e.type === 'keyup') {
+        if ($this.val() === '') {
+            label.removeClass('active highlight');
+        } else {
+            label.addClass('active highlight');
+        }
+    } else if (e.type === 'blur') {
+        if ($this.val() === '') {
+            label.removeClass('active highlight');
+        } else {
+            label.removeClass('highlight');
+        }
+    } else if (e.type === 'focus') {
 
-let form = document.querySelecter('form');
+        if ($this.val() === '') {
+            label.removeClass('highlight');
+        }
+        else if ($this.val() !== '') {
+            label.addClass('highlight');
+        }
+    }
 
-form.addEventListener('submit', (e) => {
-  e.preventDefault();
-  return false;
+});
+
+$('.tab a').on('click', function (e) {
+
+    e.preventDefault();
+
+    $(this).parent().addClass('active');
+    $(this).parent().siblings().removeClass('active');
+
+    target = $(this).attr('href');
+
+    $('.tab-content > div').not(target).hide();
+
+    $(target).fadeIn(800);
+
 });
