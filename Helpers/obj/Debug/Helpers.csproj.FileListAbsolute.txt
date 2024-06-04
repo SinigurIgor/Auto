@@ -22,3 +22,9 @@ E:\Desktop\Новая папка\Helpers\obj\Debug\Helpers.csproj.AssemblyRefere
 E:\Desktop\Новая папка\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
 E:\Desktop\Новая папка\Helpers\obj\Debug\AutoHub.dll
 E:\Desktop\Новая папка\Helpers\obj\Debug\AutoHub.pdb
+E:\Desktop\Auto-main\Новая папка\Helpers\bin\Debug\AutoHub.dll
+E:\Desktop\Auto-main\Новая папка\Helpers\bin\Debug\AutoHub.pdb
+E:\Desktop\Auto-main\Новая папка\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+E:\Desktop\Auto-main\Новая папка\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+E:\Desktop\Auto-main\Новая папка\Helpers\obj\Debug\AutoHub.dll
+E:\Desktop\Auto-main\Новая папка\Helpers\obj\Debug\AutoHub.pdb
