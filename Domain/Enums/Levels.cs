@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Enums
 {
-  
+
     public class Levels
     {
         public int None = 0;

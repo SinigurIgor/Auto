@@ -14,7 +14,7 @@ namespace BusinessLogic.MainAPI
         {
 
 
-            return new BaseResponces { Status = false};
+            return new BaseResponces { Status = false };
         }
     }
 }

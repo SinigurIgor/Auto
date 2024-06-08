@@ -1,0 +1,90 @@
+﻿@model AutoHub.Models.User.Registration
+@{
+    ViewBag.Title = "NewUser";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <div id="headerCont">
+
+        <header>
+            <nav>
+                <ul>
+                    <li>@Html.ActionLink("AutoHub", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Авто из США", "USA", "Home")</li>
+                    <li>@Html.ActionLink("Авто из Кореи", "Corea", "Home")</li>
+                    <li class="now">@Html.ActionLink("Авто из Китая", "China", "Home")</li>
+                    <li>@Html.ActionLink("О нас", "Contacts", "Home")</li>
+                    <li>@Html.ActionLink("Авторизация", "Login", "Login")</li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h2 class="panel-title">Registration</h2>
+                    </div>
+                    <div class="panel-body">
+                        @if (!String.IsNullOrEmpty(ViewBag.Message))
+                        {
+                            <div class="alert alert-danger">@ViewBag.Message</div>
+                        }
+                        else
+                        {
+                            using (Html.BeginForm("Register", "Registration", FormMethod.Post, new { @class = "form-horizontal" }))
+                            {
+                                @Html.AntiForgeryToken()
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Name, new { @class = "control-label col-md-4" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(m => m.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Surname, new { @class = "control-label col-md-4" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(m => m.Surname, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(m => m.Surname, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Email, new { @class = "control-label col-md-4" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(m => m.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(m => m.Password, new { @class = "control-label col-md-4" })
+                                    <div class="col-md-8">
+                                        @Html.EditorFor(m => m.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div>
+                                        <button type="submit" class="btn btn-primary">Register</button>
+                                    </div>
+                                </div>
+                            }
+
+                        }
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

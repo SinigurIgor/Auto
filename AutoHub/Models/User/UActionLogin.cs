@@ -1,14 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace AutoHub.Models.User
+﻿namespace AutoHub.Models.User
 {
     public class UActionLogin
     {
-        public string Credential { get; set; }
+        public string Email { get; set; }
         public string Password { get; set; }
+    }
 
+    public class UActionRegister
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
     }
 }

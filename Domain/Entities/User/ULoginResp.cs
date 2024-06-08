@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Entities.Responces
+namespace Domain.Entities.User
 {
-    public class BaseResponces
+    public class ULoginResp
     {
         public bool Status { get; set; }
-        public string StatusMessage { get; set; }
-        public bool IsSuccess { get; set; }
+        public string StatusMsg { get; set; }
     }
 }

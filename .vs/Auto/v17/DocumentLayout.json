@@ -3,92 +3,104 @@
   "WorkspaceRootPath": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\logedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\logedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\china.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\china.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\china.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\content\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\usa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\usa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\sources\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\.vs\\Auto\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\Auto\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\content\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\home\\usa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\home\\usa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\sources\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\sources\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\sources\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\sources\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\sources\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\models\\user\\uactionlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\models\\user\\uactionlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\models\\user\\uactionlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|e:\\desktop\\auto-main\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\autohub\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F38A5C59-A8A8-4CAA-8DEF-F3C2F5AB52DB}|AutoHub\\AutoHub.csproj|solutionrelative:autohub\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,85 +122,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Site.css",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Site.css",
-              "RelativeDocumentMoniker": "AutoHub\\Content\\Site.css",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Site.css",
-              "RelativeToolTip": "AutoHub\\Content\\Site.css",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "AutoHub\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "AutoHub\\Controllers\\RegistrationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-04T10:12:21.568Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:51:15.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "China.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\China.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\China.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\China.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Home\\China.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:11:56.192Z",
+              "Title": "LogedController.cs",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\LogedController.cs",
+              "RelativeDocumentMoniker": "AutoHub\\Controllers\\LogedController.cs",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\LogedController.cs",
+              "RelativeToolTip": "AutoHub\\Controllers\\LogedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:50:44.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "USA.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\USA.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\USA.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\USA.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Home\\USA.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:11:51.648Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\.vs\\Auto\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\Auto\\v17\\DocumentLayout.json",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\.vs\\Auto\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\Auto\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T12:32:28.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Contacts.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Contacts.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\Contacts.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Contacts.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Home\\Contacts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:11:17.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Register.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Login\\Register.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Register.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Login\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:02:18.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "AutoHub\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T08:43:55.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "script.js",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Sources\\Scripts\\script.js",
               "RelativeDocumentMoniker": "AutoHub\\Sources\\Scripts\\script.js",
@@ -196,12 +168,11 @@
               "RelativeToolTip": "AutoHub\\Sources\\Scripts\\script.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-04T08:41:48.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:41:48.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "UActionLogin.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Models\\User\\UActionLogin.cs",
               "RelativeDocumentMoniker": "AutoHub\\Models\\User\\UActionLogin.cs",
@@ -209,25 +180,24 @@
               "RelativeToolTip": "AutoHub\\Models\\User\\UActionLogin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T08:38:55.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:38:55.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "LoginController.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "AutoHub\\Controllers\\LoginController.cs",
               "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\LoginController.cs",
               "RelativeToolTip": "AutoHub\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:37:04.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "UserData.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Models\\UserData.cs",
               "RelativeDocumentMoniker": "AutoHub\\Models\\UserData.cs",
@@ -235,25 +205,36 @@
               "RelativeToolTip": "AutoHub\\Models\\UserData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T08:35:41.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:35:41.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AutoHub\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AutoHub\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:34:33.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T07:51:14.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AutoHub\\Views\\Shared\\_Layout.cshtml",
@@ -261,12 +242,11 @@
               "RelativeToolTip": "AutoHub\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T07:53:27.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T07:53:27.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Style.css",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Style.css",
               "RelativeDocumentMoniker": "AutoHub\\Content\\Style.css",
@@ -274,12 +254,84 @@
               "RelativeToolTip": "AutoHub\\Content\\Style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-04T10:15:37.441Z",
+              "WhenOpened": "2024-06-04T10:15:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "China.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\China.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\China.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\China.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Home\\China.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:11:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T08:43:55.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Login\\Register.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Login\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:02:18.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\Contacts.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Contacts.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Home\\Contacts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:11:17.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "USA.cshtml",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\USA.cshtml",
+              "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\USA.cshtml",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\USA.cshtml",
+              "RelativeToolTip": "AutoHub\\Views\\Home\\USA.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T10:11:51.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.css",
+              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Site.css",
+              "RelativeDocumentMoniker": "AutoHub\\Content\\Site.css",
+              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Site.css",
+              "RelativeToolTip": "AutoHub\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-04T10:12:21.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserData.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Content\\Models\\UserData.cs",
               "RelativeDocumentMoniker": "AutoHub\\Content\\Models\\UserData.cs",
@@ -287,25 +339,24 @@
               "RelativeToolTip": "AutoHub\\Content\\Models\\UserData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T08:34:09.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:34:09.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "AutoHub\\App_Start\\FilterConfig.cs",
               "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "AutoHub\\App_Start\\FilterConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:33:57.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Catalog.cshtml",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Home\\Catalog.cshtml",
               "RelativeDocumentMoniker": "AutoHub\\Views\\Home\\Catalog.cshtml",
@@ -313,12 +364,11 @@
               "RelativeToolTip": "AutoHub\\Views\\Home\\Catalog.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:11:14.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T10:11:14.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "AutoHub\\Views\\Shared\\Error.cshtml",
@@ -326,12 +376,11 @@
               "RelativeToolTip": "AutoHub\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T10:11:08.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T10:11:08.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "style.css",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Sources\\Styles\\style.css",
               "RelativeDocumentMoniker": "AutoHub\\Sources\\Styles\\style.css",
@@ -339,51 +388,37 @@
               "RelativeToolTip": "AutoHub\\Sources\\Styles\\style.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-04T09:56:59.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T09:56:59.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "AutoHub\\Views\\Login\\Index.cshtml",
-              "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "AutoHub\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBwAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T07:51:14.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "AutoHub\\App_Start\\RouteConfig.cs",
               "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "AutoHub\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T10:04:59.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "AutoHub\\App_Start\\BundleConfig.cs",
               "ToolTip": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "AutoHub\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T10:04:50.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Desktop\\Auto-main\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\AutoHub\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AutoHub\\Views\\_ViewStart.cshtml",
@@ -391,8 +426,7 @@
               "RelativeToolTip": "AutoHub\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T08:45:13.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T08:45:13.879Z"
             }
           ]
         }

@@ -1,4 +1,9 @@
 ﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -31,9 +36,9 @@
     <nav class="navbar-collapse">
         <ul class="nav navbar-nav" style="font-size: 25px; font-family: 'Poppins', sans-serif; line-height: 2;">
             <li>@Html.ActionLink("Главная страница", "Index", "Home")</li>
-            <li>@Html.ActionLink("Каталог", "Catalog", "Home")</li>
-            <li>@Html.ActionLink("Авторизация", "Privacy", "Home")</li>
-            <li>@Html.ActionLink("Авто в наличии", "Exists", "Home")</li>
+
+            <li>@Html.ActionLink("Авторизация", "Login", "Login")</li>
+
             <li>@Html.ActionLink("Авто из США", "USA", "Home")</li>
             <li>@Html.ActionLink("Авто из Кореи", "Corea", "Home")</li>
             <li>@Html.ActionLink("Авто из Китая", "China", "Home")</li>

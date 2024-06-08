@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic.DBModel
 {
-    public class UserContext :DbContext
+    public class UserContext : DbContext
     {
-            public UserContext():base("name=AutoHub") { }
+        public UserContext() : base("name=AutoHub") { }
 
-        public virtual  DbSet<UserDTO> USers { get; set; }
+        public virtual DbSet<UserDTO> USers { get; set; }
     }
 }

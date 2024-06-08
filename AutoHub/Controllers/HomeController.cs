@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Web.Mvc;
 using AUTO.Models;
@@ -11,10 +12,11 @@ namespace AutoHub.Controllers
         public ActionResult Index()
         {
 
+
             return View();
         }
 
-        public ActionResult Privacy()
+        public ActionResult Register()
         {
             return View();
         }
@@ -23,22 +25,20 @@ namespace AutoHub.Controllers
             return View();
         }
 
-        public ActionResult Catalog()
-        {
-            return View();
-        }
         public ActionResult China()
         {
             return View();
         }
-        public ActionResult Corea(String name)
+        public ActionResult Corea()
         {
-            
-            ViewBag.Title = "Corea";
-            
-            ViewBag.Name = name;
-            
+
+
             return View();
         }
-}
+        public ActionResult USA()
+        {
+            return View();
+        }
+    }
+
 }

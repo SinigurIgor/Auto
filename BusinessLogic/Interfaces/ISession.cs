@@ -5,7 +5,7 @@ namespace BusinessLogic.Interfaces
 {
     public interface ISession
     {
+        object GetUserByCookie(string value);
         BaseResponces ValidateUserCredentialAction(UserLoginData ulData);
     }
 }
- 

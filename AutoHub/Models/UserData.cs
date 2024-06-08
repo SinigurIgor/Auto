@@ -7,7 +7,7 @@ namespace AutoHub.Models
 {
     public class UserData
     {
-        public List<string> Products { get; set; }
-        public string Username { get; set; }
+        public List<string> Products { get; internal set; }
+        public string Username { get; internal set; }
     }
 }
