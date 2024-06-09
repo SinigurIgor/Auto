@@ -2,6 +2,7 @@
 using System.Web;
 using System.Web.Mvc;
 using AutoHub.Models.User;
+using AutoMapper;
 using BusinessLogic.Interfaces;
 using Domain.Entities.User;
 

@@ -28,7 +28,7 @@ namespace Helpers.Functions
         {
             using (SHA256 sha256 = SHA256.Create())
             {
-                byte[] saltedPasswordBytes = Encoding.UTF8.GetBytes(password + salt); // Adaugă salt-ul la parolă
+                byte[] saltedPasswordBytes = Encoding.UTF8.GetBytes(password + salt); // добавление соли к паролю
                 byte[] hashedBytes = sha256.ComputeHash(saltedPasswordBytes);
                 StringBuilder builder = new StringBuilder();
                 foreach (byte b in hashedBytes)
